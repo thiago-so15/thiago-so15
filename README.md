@@ -1,5 +1,11 @@
 # 👋 Hola, soy **Thiago.so**
 
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Styles-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Tool-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 🚀 Aprendiendo a programar  
 💻 Explorando el mundo del desarrollo web, las **aplicaciones** y los **juegos**
 
@@ -16,32 +22,21 @@
 
 ## 🛠️ Tecnologías que uso
 
-**Lenguajes**
-- TypeScript
+### Lenguajes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-**Frameworks & estilos**
-- Next.js  
-- Tailwind CSS  
+### Frameworks & estilos
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Herramientas**
-- Git  
-- GitHub  
-- VS Code  
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📌 Proyectos
 
 Por ahora estoy aprendiendo y experimentando 👨‍💻  
-Pronto van a aparecer proyectos copados por acá 🚀
-
----
-
-## ✨ Objetivo
-
-Seguir mejorando todos los días, crear proyectos cada vez más grandes  
-y disfrutar el proceso de aprender a programar 🔥
-
----
-
-⭐ *Si te pasás por algún repo y te gusta, una estrella siempre suma*
+¡Se vienen cosas pronto! 🚧
